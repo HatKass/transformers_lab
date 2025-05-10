@@ -15,3 +15,6 @@ We focus on:
 ```bash
 git clone https://github.com/HatKass/transformers_lab.git
 cd transformers_lab
+
+> Developed by: Meryem Lakrimi & Hatim Kassim   
+> Master's Deep Learning Lab – 2025
